@@ -16,4 +16,4 @@ for page_num, page in enumerate(reader.pages,start=1):
 
     else:
         print("No text found")
-print(f"Total character extracted: {len{text}}")
+print(f"Total character extracted: {len(text)}")
