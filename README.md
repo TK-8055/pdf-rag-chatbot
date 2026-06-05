@@ -59,8 +59,8 @@ pip install -r requirements.txt
 ## 📈 Development Progress
 
 - [x] Project Setup
-- [ ] PDF Loading
-- [ ] Text Extraction
+- [x] PDF Loading
+- [x] Text Extraction
 - [ ] Chunking
 - [ ] Embedding Generation
 - [ ] ChromaDB Integration
