@@ -11,6 +11,9 @@ This project enables users to upload PDF files and ask questions about their con
 - PDF document ingestion
 - Text extraction from PDFs
 - Document chunking
+
+## 🚧 Planned Features
+
 - Embedding generation
 - Semantic search
 - Vector database storage with ChromaDB
@@ -61,7 +64,7 @@ pip install -r requirements.txt
 - [x] Project Setup
 - [x] PDF Loading
 - [x] Text Extraction
-- [ ] Chunking
+- [x] Chunking
 - [ ] Embedding Generation
 - [ ] ChromaDB Integration
 - [ ] Retrieval Pipeline
